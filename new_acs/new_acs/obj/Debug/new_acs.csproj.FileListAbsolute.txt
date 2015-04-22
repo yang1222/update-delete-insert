@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\new_acs\new_acs\bin\Debug\new_acs.exe.config
+c:\users\user\documents\visual studio 2012\Projects\new_acs\new_acs\bin\Debug\new_acs.exe
+c:\users\user\documents\visual studio 2012\Projects\new_acs\new_acs\bin\Debug\new_acs.pdb
+c:\users\user\documents\visual studio 2012\Projects\new_acs\new_acs\obj\Debug\new_acs.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\new_acs\new_acs\obj\Debug\new_acs.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\new_acs\new_acs\obj\Debug\new_acs.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\new_acs\new_acs\obj\Debug\new_acs.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\new_acs\new_acs\obj\Debug\new_acs.exe
+c:\users\user\documents\visual studio 2012\Projects\new_acs\new_acs\obj\Debug\new_acs.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\new_acs\new_acs\obj\Debug\new_acs.Form2.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\new_acs\new_acs\obj\Debug\new_acs.Form3.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\new_acs\new_acs\obj\Debug\new_acs.Form4.resources
